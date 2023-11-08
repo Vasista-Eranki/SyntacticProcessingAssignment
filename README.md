@@ -1,5 +1,5 @@
-# SyntacticProcessingAssignment
-Syntactic Processing - Assignment - To extract diseases and treatments from a given set of statements. 
+# Identifying Entities in Healthcare Data Assignment
+Syntactic Processing - Assignment - Identifying Entities in Healthcare Data Assignment
 
 
 
